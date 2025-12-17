@@ -1,0 +1,184 @@
+2025-12-17 19:50:26.905 Starting server...
+2025-12-17 19:50:26.905 Serving static content from /opt/anaconda3/lib/python3.12/site-packages/streamlit/static
+2025-12-17 19:50:26.920 Server started on port 8501
+2025-12-17 19:50:26.920 Runtime state: RuntimeState.INITIAL -> RuntimeState.NO_SESSIONS_CONNECTED
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.1.155:8501
+
+2025-12-17 19:50:27.025 Setting up signal handler
+2025-12-17 19:52:46.195 No singleton. Registering one.
+2025-12-17 19:52:46.200 Watcher created for /Users/arantzazucolegio/Human-AI-/pages
+2025-12-17 19:52:46.207 Watcher created for /Users/arantzazucolegio/Human-AI-/app.py
+2025-12-17 19:52:46.209 AppSession initialized (id=9231a261-eea7-4b49-9a31-ae49d6a4d4e9)
+2025-12-17 19:52:46.209 Created new session for client 4363722608. Session ID: 9231a261-eea7-4b49-9a31-ae49d6a4d4e9
+2025-12-17 19:52:46.210 Runtime state: RuntimeState.NO_SESSIONS_CONNECTED -> RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED
+2025-12-17 19:52:46.682 Runtime state: RuntimeState.ONE_OR_MORE_SESSIONS_CONNECTED -> RuntimeState.NO_SESSIONS_CONNECTED
+2025-12-17 19:55:21.917 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.927 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__/__init__.cpython-312.pyc.4421559344.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__/__init__.cpython-312.pyc.4421559344.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Move event: src /Users/arantzazucolegio/Human-AI-/screens/__pycache__/__init__.cpython-312.pyc.4421559344; dest /Users/arantzazucolegio/Human-AI-/screens/__pycache__/__init__.cpython-312.pyc
+2025-12-17 19:55:21.929 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__/__init__.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__/welcome.cpython-312.pyc.4421557168.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__/welcome.cpython-312.pyc.4421557168.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.929 Move event: src /Users/arantzazucolegio/Human-AI-/screens/__pycache__/welcome.cpython-312.pyc.4421557168; dest /Users/arantzazucolegio/Human-AI-/screens/__pycache__/welcome.cpython-312.pyc
+2025-12-17 19:55:21.930 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__/welcome.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.930 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.930 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__/analyzing.cpython-312.pyc.4421557296.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__/analyzing.cpython-312.pyc.4421557296.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Move event: src /Users/arantzazucolegio/Human-AI-/screens/__pycache__/analyzing.cpython-312.pyc.4421557296; dest /Users/arantzazucolegio/Human-AI-/screens/__pycache__/analyzing.cpython-312.pyc
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__/analyzing.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/screens/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/__init__.cpython-312.pyc.4421557040.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/__init__.cpython-312.pyc.4421557040.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Move event: src /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/__init__.cpython-312.pyc.4421557040; dest /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/__init__.cpython-312.pyc
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/__init__.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/pipeline.cpython-312.pyc.4421557040.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/pipeline.cpython-312.pyc.4421557040.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Move event: src /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/pipeline.cpython-312.pyc.4421557040; dest /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/pipeline.cpython-312.pyc
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/pipeline.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/text_extraction.cpython-312.pyc.4421557040.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/text_extraction.cpython-312.pyc.4421557040.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Move event: src /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/text_extraction.cpython-312.pyc.4421557040; dest /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/text_extraction.cpython-312.pyc
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/text_extraction.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:21.939 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:35.800 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git/index.lock.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:35.805 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:35.805 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git/index.lock.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:35.805 Move event: src /Users/arantzazucolegio/Human-AI-/.git/index.lock; dest /Users/arantzazucolegio/Human-AI-/.git/index
+2025-12-17 19:55:35.805 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git/index.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:35.805 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:35.805 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.296 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_extraction.cpython-312.pyc.4950431280.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.318 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.318 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_extraction.cpython-312.pyc.4950431280.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.318 Move event: src /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_extraction.cpython-312.pyc.4950431280; dest /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_extraction.cpython-312.pyc
+2025-12-17 19:55:42.318 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_extraction.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.319 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.319 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_graph.cpython-312.pyc.4950434608.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.320 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.320 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_graph.cpython-312.pyc.4950434608.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.320 Move event: src /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_graph.cpython-312.pyc.4950434608; dest /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_graph.cpython-312.pyc
+2025-12-17 19:55:42.321 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__/topic_graph.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:55:42.321 Ignoring changed path /Users/arantzazucolegio/Human-AI-/analysis/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:07.601 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git/index.lock.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:07.607 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:07.608 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git/index.lock.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:07.608 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:08.596 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git/index.lock.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:08.596 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:08.597 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git/index.lock.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:08.597 Ignoring changed path /Users/arantzazucolegio/Human-AI-/.git.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.774 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.776 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.777 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.777 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__/__init__.cpython-312.pyc.6003894320.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.777 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.777 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__/__init__.cpython-312.pyc.6003894320.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.777 Move event: src /Users/arantzazucolegio/Human-AI-/services/__pycache__/__init__.cpython-312.pyc.6003894320; dest /Users/arantzazucolegio/Human-AI-/services/__pycache__/__init__.cpython-312.pyc
+2025-12-17 19:56:23.777 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__/__init__.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.778 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.778 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__/topic_analysis_service.cpython-312.pyc.6003609296.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.779 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.779 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__/topic_analysis_service.cpython-312.pyc.6003609296.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.779 Move event: src /Users/arantzazucolegio/Human-AI-/services/__pycache__/topic_analysis_service.cpython-312.pyc.6003609296; dest /Users/arantzazucolegio/Human-AI-/services/__pycache__/topic_analysis_service.cpython-312.pyc
+2025-12-17 19:56:23.779 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__/topic_analysis_service.cpython-312.pyc.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+2025-12-17 19:56:23.779 Ignoring changed path /Users/arantzazucolegio/Human-AI-/services/__pycache__.
+Watched_paths: {'/Users/arantzazucolegio/Human-AI-/pages': WatchedPath(md5='9f20fdbc7b2452935f748f5743ef6312', glob_pattern='*.py', allow_nonexistent=True, on_changed=<blinker.base.Signal object at 0x104622450>)}
+  Stopping...
+2025-12-17 19:56:24.345 Runtime stopping...
+2025-12-17 19:56:24.346 Runtime state: RuntimeState.NO_SESSIONS_CONNECTED -> RuntimeState.STOPPING
+2025-12-17 19:56:24.361 Shutting down (id=9231a261-eea7-4b49-9a31-ae49d6a4d4e9)
+2025-12-17 19:56:24.364 Disconnecting files for session with ID 9231a261-eea7-4b49-9a31-ae49d6a4d4e9
+2025-12-17 19:56:24.365 Sessions still active: dict_keys([])
+2025-12-17 19:56:24.372 Files: 0; Sessions with files: 0
+2025-12-17 19:56:24.372 Removing orphaned files...
+2025-12-17 19:56:24.375 Runtime state: RuntimeState.STOPPING -> RuntimeState.STOPPED
